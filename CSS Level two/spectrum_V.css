@@ -1,0 +1,34 @@
+h1 {
+    font-family: 'Permanent Marker';
+    text-align: center;
+}
+
+.art {
+    margin: auto;
+}
+
+td {
+    height: 200px;
+    padding: 100px;
+    border: 6px solid white;
+}
+
+#one {
+    background-color: green;
+}
+
+#two {
+    background-color: palevioletred;
+}
+
+#three {
+    background-color: #08f352;
+}
+
+#four {
+    background-color: orange;
+}
+
+#five {
+    background-color: purple;
+}
